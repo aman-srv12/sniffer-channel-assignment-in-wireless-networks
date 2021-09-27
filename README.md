@@ -1,4 +1,4 @@
-# Sniffer Channel Assignment in Wireless Networks
+## Sniffer Channel Assignment in Wireless Networks
 
 Brief Description:
 
